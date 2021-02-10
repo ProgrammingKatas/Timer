@@ -1,3 +1,3 @@
-# ProgrammingKatas
+# ProgrammingKatas Timer
 
-Se un Ninja programando
+Se un Ninja contando el tiempo
